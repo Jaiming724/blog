@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Blog</title>
+    <title>Welcome on My New Blog</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content on My New Blog</description>
+    <description>Recent content in Welcome on My New Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jan 2026 01:31:06 -0500</lastBuildDate>
@@ -14,6 +14,34 @@
       <pubDate>Tue, 20 Jan 2026 01:31:06 -0500</pubDate>
       <guid>http://localhost:1313/blog/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;&#xA;&lt;p&gt;This is test post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Future of Web Development</title>
+      <link>http://localhost:1313/blog/tech/future-of-web/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tech/future-of-web/</guid>
+      <description>&lt;p&gt;Web development is constantly evolving. From static sites to SPAs and now back to server-side rendering, the cycle continues.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-speed-matters&#34;&gt;Why Speed Matters&lt;/h2&gt;&#xA;&lt;p&gt;In the modern web, performance is everything.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a developer and writer. This is my personal blog where I share my thoughts on technology, lifestyle, and my ongoing projects.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-i-write-about&#34;&gt;What I write about&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech&lt;/strong&gt;: Coding, software architecture, and new tools.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lifestyle&lt;/strong&gt;: Hobbies, travel, and personal growth.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: Showcases of my work.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Minimalism in Daily Life</title>
+      <link>http://localhost:1313/blog/lifestyle/minimalism/</link>
+      <pubDate>Fri, 19 Jan 2024 10:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/blog/lifestyle/minimalism/</guid>
+      <description>&lt;p&gt;Adopting a minimalist lifestyle has cleared my mind and my space.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Less is more.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not just about owning less, it&amp;rsquo;s about valuing more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Personal Blog Revamp</title>
+      <link>http://localhost:1313/blog/projects/blog-revamp/</link>
+      <pubDate>Thu, 18 Jan 2024 10:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/blog/projects/blog-revamp/</guid>
+      <description>&lt;p&gt;I recently decided to revamp my blog using Hugo and the Poison theme.&lt;/p&gt;&#xA;&lt;h3 id=&#34;goals&#34;&gt;Goals&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Clean aesthetics.&lt;/li&gt;&#xA;&lt;li&gt;Fast load times.&lt;/li&gt;&#xA;&lt;li&gt;Easy content management.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

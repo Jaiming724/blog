@@ -1,0 +1,9 @@
+<nav>
+    <ul class="sidebar-nav">
+        {{ range .Site.Menus.main }}
+        <li class="heading">
+            <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</nav>

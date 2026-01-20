@@ -11,24 +11,15 @@ theme = 'poison'
   mode = "toggle"                # Options: auto, dark, light, toggle
   description = "A minimalist blog."
 
+[taxonomies]
+  topic = "topics"
+
 [menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Tech"
-    url = "/tech/"
+    name = "Blog"
+    url = "/topics/"
     weight = 2
-  [[menu.main]]
-    name = "Lifestyle"
-    url = "/lifestyle/"
-    weight = 3
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 4
-  [[menu.main]]
-    name = "All Posts"
-    url = "/posts/"
-    weight = 5
