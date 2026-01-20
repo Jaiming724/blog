@@ -1,4 +1,4 @@
-baseURL = 'https://jaiming724.github.io/blog/' # CHANGE THIS later to your real URL
+baseURL = 'https://jaiming724.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Blog'
 theme = 'poison'
@@ -6,7 +6,7 @@ theme = 'poison'
   pagerSize = 10
 
 [params]
-  brand = "My Blog"              # Text in top left
+  brand = "My Blog"
   color = "blue"                 # Options: red, orange, yellow, green, teal, blue, purple, pink
   mode = "toggle"                # Options: auto, dark, light, toggle
   description = "A minimalist blog."
@@ -17,6 +17,18 @@ theme = 'poison'
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Tech"
+    url = "/tech/"
     weight = 2
+  [[menu.main]]
+    name = "Lifestyle"
+    url = "/lifestyle/"
+    weight = 3
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+  [[menu.main]]
+    name = "All Posts"
+    url = "/posts/"
+    weight = 5
