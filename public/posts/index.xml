@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Blog</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on My New Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jan 2026 01:31:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/blog/posts/my-first-post/</link>
+      <pubDate>Tue, 20 Jan 2026 01:31:06 -0500</pubDate>
+      <guid>http://localhost:1313/blog/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;&#xA;&lt;p&gt;This is test post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

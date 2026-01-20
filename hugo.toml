@@ -1,0 +1,22 @@
+baseURL = 'https://jaiming724.github.io/blog/' # CHANGE THIS later to your real URL
+languageCode = 'en-us'
+title = 'My New Blog'
+theme = 'poison'
+[pagination]
+  pagerSize = 10
+
+[params]
+  brand = "My Blog"              # Text in top left
+  color = "blue"                 # Options: red, orange, yellow, green, teal, blue, purple, pink
+  mode = "toggle"                # Options: auto, dark, light, toggle
+  description = "A minimalist blog."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
